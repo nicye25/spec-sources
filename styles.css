@@ -1,0 +1,152 @@
+body {
+    background-color: #F1F1F1;
+;
+}
+
+.spec-logo {
+    position: absolute;
+    width: 263px;
+    height: 55px;
+    top: 55px;
+    left: 73px;
+    opacity: 1;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 146px;
+}
+
+h1 {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 100%;
+    text-align: center;
+    color: #36476D;
+    width: 630px;
+    height: 45px;
+    opacity: 1;
+}
+
+.input-box {
+    display: flex;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1320px;
+    height: 143px;
+    top: 170px;
+    opacity: 1;
+    border-radius: 30px;
+    border-width: 1px;
+    background: #AFD7FA;
+    border: 1px solid #000000;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.form {
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 100%;
+    color: #FFFFFF;
+    align-items: center;
+    display: flex;
+
+}
+
+.form label {
+    width: 180px;
+    font-size: 20px;
+}
+
+.form input {
+    width: 306px;
+    height: 50px;
+    opacity: 1;
+    border: none;
+}
+
+button {
+    width: 166px;
+    height: 57px;
+    border-radius: 20px;
+    background: #56C854;
+    border: none;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.list-box {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 250px;
+    width: 1293px;
+    height: 367px;
+    justify-content: space-evenly;
+}
+
+.entry {
+    width: 1293px;
+    height: 107px;
+    border-radius: 30px;
+    opacity: 1;
+    background-color: white;
+    filter: drop-shadow(0px 4px 1px rgba(0.0, 0.0, 0.0, 0.2));
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h2 {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 100%;
+    color: #36476D;
+    margin-right: auto;
+}
+
+.number {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100%;
+    color: #36476D;
+    margin-right: auto;
+    margin-left: 50px;
+}
+
+.eaddress {
+    font-family: Poppins;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 100%;
+    color: #828EA6;
+    margin-right: auto;
+}
+
+.del {
+    width: 126;
+    height: 33;
+    background: #FF7676;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    text-align: center;
+    margin-right: 50px;
+}
